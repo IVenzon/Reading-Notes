@@ -18,3 +18,9 @@ One important thing about the growth mindset is that it helps you keep things in
 3. ***Avoid comparing yourself to others.*** While it may be tempting to feel envious of someone else's achievements, this can impede your own growth. Instead of feeling jealous, it is better to acknowledge that they have worked hard to get where they are, and use this as a source of motivation for yourself.
 
 # Markdown Notes:
+
+In Markdown, there are often several different ways to do the same thing. However, due to convention, some ways are preferable to others in certain situations.  
+
+For instance, if you want to make your text bold, you can either use two \* or \_ around your text, like this:
+
+> \*\*this text is bold!\*\*
