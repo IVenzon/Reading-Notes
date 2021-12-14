@@ -30,3 +30,13 @@ or
 > \_\_this text is bold!\_\_
 
 Both will lead to the same result: **this text is bold!**
+
+This is identical for italic text, just with one \* or \_ wrapping your text.
+
+> \*this text is italic!\*
+
+or
+
+> \_this text is italic!\_
+
+Lead to: *this text is italic!*
