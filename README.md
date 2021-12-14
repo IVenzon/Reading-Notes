@@ -42,3 +42,13 @@ or
 > \_this text is italic!\_
 
 Lead to: *this text is italic!*
+
+However, if want bold/italic words in the middle of our text, it is convention to only use \*
+
+> Iwant\*\*BOLD*\*\inthemiddle!
+
+or
+
+> Iwant\*ITALICS\*inthemiddle!
+
+give us Iwant**BOLD**inthemiddle! and Iwant*ITALICS*inthemiddle! respectively.
