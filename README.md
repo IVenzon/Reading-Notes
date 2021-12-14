@@ -24,6 +24,9 @@ In Markdown, there are often several different ways to do the same thing. Howeve
 For instance, if you want to make your text bold, you can either use two \* or \_ around your text, like this:
 
 > \*\*this text is bold!\*\*
+
+or
+
 > \_\_this text is bold!\_\_
 
 Both will lead to the same result: **this text is bold!**
