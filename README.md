@@ -49,7 +49,7 @@ Lead to: *this text is italic!*
 
 However, if want bold/italic words in the middle of our text, it is convention to only use \*
 
-> Iwant\*\*BOLD*\*\inthemiddle!
+> Iwant\*\*BOLD\*\*inthemiddle!
 
 or
 
