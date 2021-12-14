@@ -10,7 +10,7 @@ One important thing about the growth mindset is that it helps you keep things in
 2. The growth mindset is an **active** mindset. You will need to put in the effort to maintain it.
 3. Avoid comparing yourself to others. While it may be tempting to feel envious of someone else's achievements, this can impede your own growth. Instead of feeling jealous, it is better to acknowledge that they have worked hard to get where they are, and use this as a source of motivation for yourself.
 
-# Quick Intro:
+### Quick Intro:
 
 My name is Ian Venzon. I live in California, and am currently a community college student studying computer science. Nice to meet you all!
 [Here is my Github page.](https://github.com/IVenzon)
