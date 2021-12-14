@@ -1,9 +1,13 @@
 # Having a Growth Mindset (and Why it's Important!)  
 
+___
+
 ### Quick Intro:
 
 My name is Ian Venzon. I live in California, and am currently a community college student studying computer science. Nice to meet you all!
 [Here is my Github page.](https://github.com/IVenzon)
+
+___
 
 The growth mindset is one where challenges and adversity are not seen as roadblocks, but as opportunities to learn and grow, hence the name. It can apply to anything in life, but it is especially useful in the land of coding, where there is so much to learn and lots of ways to get stuck. As such, being able ride through these bumpy patches and bounce back is the key to success.
 
