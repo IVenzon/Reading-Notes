@@ -21,6 +21,20 @@ Within the terminal, there is something called the shell. The shell is the part 
 
 One important aspect of using the command line is the concept of paths.
 
+Within the terminal, there two types of paths: absolute and relative.
+
+The file system under linux is hierarchical. That is, at the very top of the structure lies the root directory. It is denoted by a slash (/), and has many tiers of subdirectories. Files can reside in any of these directories.
+
+Absolute paths specify a location in relation the root directory. They are easily identifiable, as they always begin with a forward slash (/).
+
+Relative paths specify a location in relation to our current location in the system. They do not begin with a slash.
+
+Here are some important things to keep in mind when using paths:
+
+- the tilde key (~) is a shortcut for your home directory.
+- the period/dot key (.) is a reference to your current directory.
+- two periods/dots (..) reference the parent directory. Using this several times allows us to keep going up the directory hierachy.
+
 There are many important commands which allow us to properly utilize the terminal, such as:
 
 - The echo command displays messages. For instance, if you want to know what shell you are using, typing 'echo $SHELL' will tell you.
