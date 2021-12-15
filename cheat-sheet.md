@@ -17,6 +17,10 @@ The command line (or terminal) is a text-based interface with the system. It all
 
 Within the terminal, there is something called the shell. The shell is the part of the OS that defines how the command line will behave and react to your commands. While there are lots of shells, the most common one is bash (which stands for Bourne again shell).
 
+### Paths
+
+One important aspect of using the command line is the concept of paths.
+
 There are many important commands which allow us to properly utilize the terminal, such as:
 
 - The echo command displays messages. For instance, if you want to know what shell you are using, typing 'echo $SHELL' will tell you.
