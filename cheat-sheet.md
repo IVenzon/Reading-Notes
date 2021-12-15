@@ -35,15 +35,37 @@ Here are some important things to keep in mind when using paths:
 - the period/dot key (.) is a reference to your current directory.
 - two periods/dots (..) reference the parent directory. Using this several times allows us to keep going up the directory hierachy.
 
+### Files
+
+In linux, everything is a file. This includes text files, directories, and in a way, even the physical components of your computer.
+
+Linux is also an extensionless system. While in other OS use file extensions to determine the type of file you are looking at, linux ignores them and just looks inside of the file itself. Using the file command can help us determine exactly what type of file we are looking at.
+
+Linux is also sensitive to formating, such as capitalization and spaces.
+
+When it comes to capitalization, Linux is case sensitive. This means that you can have two files with the same name, but if they have different capitalization (say file1.txt and File1.txt) Linux will treat them as two distinct files.
+
+When it comes to spaces in directories, there are two main ways to get around them.
+
+1. Use quotes around the item name (ex. cd 'My Homework'). Anything inside quotes is treated as a single item.
+2. Use an escape character, which in this case is backslash (\). Using backslash before the space (or any special character) nullfies the meaning of the next character. (ex. cd My\ Homework)
+
+If we want to see hidden files within a directory, we can modify the ls command with the option -a (ex. ls -a Documents). This will show us any hidden files/directories.
+
+### Commands
+
 There are many important commands which allow us to properly utilize the terminal, such as:
 
 - The echo command displays messages. For instance, if you want to know what shell you are using, typing 'echo $SHELL' will tell you.
 - The pwd command (print working directory) tells you what your current working directory is. Since we will be moving around a lot while using the terminal, this is an important command to help keep yourself oriented.
-- The ls command (list) tells ur our current location. Unlike the pwd command, the ls command can accept arguments, which allows us to do much more with it.
+- The ls command (list) tells ur our current location. Unlike the pwd command, the ls command can accept arguments, which allows us to do much more with it. For example, typing ls -a will show any hidden files/directories.
 - The cd command (change directory) allows us to move around our system. Typing cd [location] moves us into the desired directory.
+- The file command tells us the file type of our specified file. Typing file [path] will tell us the file type of the file in the path.
+
+### Shortcuts
 
 There are also several useful shortcuts to keep in mind when using the terminal, such as:
 
 - Use the up/down arrows to traverse the command line history. Since all commands are stored, this is easier than re-entering a command.
 - Running the cd command without any arguments will always take you back to your home directory
-- Tab completion allows us to auto-complete path names. If the first tab does nothing, whis means there are multiple possibilities, and hitting tab more times will try to auto-complete again based on these options.
+- Tab completion allows us to auto-complete path names. If the first tab does nothing, whis means there are multiple possibilities, and hitting tab more times will try to auto-complete again based on these options. In the case where there is a space in the directory name, using tab completion before the space occurs will automatically escape/nullify any spaces in the name for you.
