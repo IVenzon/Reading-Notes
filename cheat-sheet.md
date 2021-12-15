@@ -10,3 +10,20 @@ Some important factors to consider when choosing a text editor are code completi
 - Syntax highlighting helps distinguish each element of your text by using certain colors for each type. For instance, tags may be colored orange, while regular text is colored white. This makes it easier to see what's in your text, and also makes it easier to spot potential sources of error.
 - Colors and Themes will help relieve eye stress by using darker colors, but are also just fun ways to personalize your experience.
 - Extensions can add extra functionality to your text editor, which can increase your productivity and quality of life.
+
+## The Command Line:
+
+The command line (or terminal) is a text-based interface with the system. It allows you to directly input commands to the computer.
+
+Within the terminal, there is something called the shell. The shell is the part of the OS that defines how the command line will behave and react to your commands. While there are lots of shells, the most common one is bash (which stands for Bourne again shell).
+
+There are many important commands which allow us to properly utilize the terminal, such as:
+
+- The echo command displays messages. For instance, if you want to know what shell you are using, typing 'echo $SHELL' will tell you.
+- The pwd command (print working directory) tells you what your current working directory is. Since we will be moving around a lot while using the terminal, this is an important command to help keep yourself oriented.
+
+There are also several useful shortcuts to keep in mind when using the terminal, such as:
+
+- Use the up/down arrows to traverse the command line history. Since all commands are stored, this is easier than re-entering a command.
+- Running the cd command without any arguments will always take you back to your home directory
+- Tab completion allows us to auto-complete path names. If the first tab does nothing, whis means there are multiple possibilities, and hitting tab more times will try to auto-complete again based on these options.
