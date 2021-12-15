@@ -21,6 +21,8 @@ There are many important commands which allow us to properly utilize the termina
 
 - The echo command displays messages. For instance, if you want to know what shell you are using, typing 'echo $SHELL' will tell you.
 - The pwd command (print working directory) tells you what your current working directory is. Since we will be moving around a lot while using the terminal, this is an important command to help keep yourself oriented.
+- The ls command (list) tells ur our current location. Unlike the pwd command, the ls command can accept arguments, which allows us to do much more with it.
+- The cd command (change directory) allows us to move around our system. Typing cd [location] moves us into the desired directory.
 
 There are also several useful shortcuts to keep in mind when using the terminal, such as:
 
