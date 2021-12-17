@@ -12,3 +12,4 @@ ___
 1. [Growth Mindset](https://github.com/IVenzon/Reading-Notes/blob/main/growth-mindset.md)
 2. [Command Line Cheat Sheet](https://github.com/IVenzon/Reading-Notes/blob/main/cheat-sheet.md)
 3. [Intro to Git](https://github.com/IVenzon/Reading-Notes/blob/main/git-intro.md)
+4. [Wireframing and HTML](https://github.com/IVenzon/Reading-Notes/blob/main/html.md)
