@@ -23,3 +23,9 @@ When creating a wireframe, there are 6 key steps:
 5. **Add some detail and get testing:** With your general outline/flow now on the page, we can start to add more detail. Start from top-to-bottom and left-to-right, considering what each element of your outline will need to do. It may be helpful to write some brief notes on the functionality/usability of things in your outline. Once you've gone through it all, now you can start user testing for feedback.
 
 6. **Start turning your wireframes into prototypes:** After getting some proper feedback, now you can start working on the next step: changing your wireframe into a prototype. Here you can use tools that will transform your wireframe into a fully connected and working prototype, which can be used for even more user testing.
+
+In general, there are three things to keep in mind while wireframing.
+
+1. Clarity
+2. Confidence
+3. Simplicity is key
