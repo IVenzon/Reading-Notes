@@ -29,3 +29,14 @@ In general, there are three things to keep in mind while wireframing.
 1. Clarity
 2. Confidence
 3. Simplicity is key
+
+## HTML Basics:
+
+HTML is a markup language which acts as the backbone of your webpage's content. It consists of a series of elements, which enclose parts of your content to make it act a certain way.
+
+Every HTML element is surrounded by tags. These tags (such as h1, p, or img) dictate how the content of the element will look/behave on your page. Elements can also have attributes, which can be used to target specific elements/groups of elements with things such as style information.
+
+When you put elements inside of other elements, this is known as 'nesting'. For instance, if we wanted to emphasize some text, we could nest the 'strong' tag inside of our 'p' tag, which would make the text within the 'strong' tag bold.
+
+## Semantic Elements in HTML:
+
