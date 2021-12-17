@@ -40,3 +40,8 @@ When you put elements inside of other elements, this is known as 'nesting'. For 
 
 ## Semantic Elements in HTML:
 
+If you wanted to make a big heading in HTML, you could approach it in two ways. The first (and best) way would be to use the h1 tag. The second way would be to make a text element look like an h1 tag through styling. However, since we can just jump straight to our desired result with the h1 tag, why wouldn't we? 
+
+This is an example of using a semantic element (h1 in this case). The h1 tag has a semantic value in HTML (to be the biggest heading), so if we want a big heading, we will use h1.
+
+When writing HTML, we want to organize our elements based on the data that will populate them. We can accomplish this by using semantic elements instead of just div tags. For example, if our webpage is about a moview review, we can enclose the summary of the movie within the 'summary' tag instead of a div tag. Utliizing semantic elements in this way will help make your code easier to understand, as things that are relevant to eachother are organized within their respective tags. Compared to an endless list of div tags, it will be much easier to navigate.
