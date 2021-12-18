@@ -14,3 +14,4 @@ ___
 3. [Intro to Git](code-102/git-intro)
 4. [Wireframing and HTML](code-102/html)
 5. [CSS](code-102/css)
+6. [Javascript](code-102/javascript)
