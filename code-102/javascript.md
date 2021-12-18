@@ -4,6 +4,11 @@ Javascript is a lightweight/interpreted/just-in-time compiled programming langua
 
 ## Input/Output in Javascript:
 
+There are several things that define an 'input', such as mouse clicks and typing.
+
+In Javascript, we can use functions to retrieve the content from the input fields and assign these values to variables. We can then use these variables to create an HTML snippet and assign it to a new variable.
+
+This new variable can then be used to 'output' something on our page.
 
 ## Javascript Variables:
 
@@ -41,6 +46,6 @@ If we want to assign a value to variable, we need to use the assignment operator
 
 > x = x + 1;
 
-This statement first calculates the value of x + 1, then assigns that value to x. In other words, this statement increments the value of x by one each time.
+This statement first calculates the value of x + 1, then assigns that value to x. In other words, this statement increments the value of x by one each time it runs.
 
 On the other hand, if we wanted to check if a variable equaled some value, then we would need to use the equals operator (two equals signs). Note that this is a **VERY** common source of error, so if a problem arises and you get stuck, be sure to check how many equals signs you used!
