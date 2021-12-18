@@ -18,4 +18,6 @@ There are three main ways you can add CSS to your HTML file.
 
 External CSS means we are linking a .css file to our .html file in the \<head> section of our HTML document. Using an external stle sheet is extremely helpful, as we only need to change one file in order to style our webpage. Note that the .css file must not contain any HTML tags.
 
-Internal CSS means that we define our styles within the \<style> element, which itself is inside the \<head> element.
+Internal CSS means that we define our styles within the \<style> element, which itself is inside the \<head> element. Using internal CSS may be handy if we only need to style a few elements of our page, or if a single HTML page has a unique style.
+
+Inline CSS means that we define our styles within the attributes of our element. While this can be useful if we only need to apply styling to a single element, using inline CSS takes away the many advantages of having a style sheet, as it mixes your content with your presentation. Use this with caution, and sparingly if you must!
