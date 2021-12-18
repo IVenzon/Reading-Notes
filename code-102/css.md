@@ -50,8 +50,8 @@ There are many ways to define what color you want your text to be. Here are some
 
 3. The color's RGB value:
 
-> h1 {color: rgb(255, 99, 71)}
+> h1 {color: rgb(255, 99, 71);}
 
 4. The color's HSL value:
 
-> h1 {color: hsl(9, 100%, 64%)}
+> h1 {color: hsl(9, 100%, 64%);}
