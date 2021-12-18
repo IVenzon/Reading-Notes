@@ -15,4 +15,32 @@ We can declare a variable in Javascript in 3 ways: 'var', 'let', and 'const'. Le
 
 > var y = 2;
 
-> var z = 9;
+> var z = x + y;
+
+In this case, the variable 'x' stores the value 7, the variable 'y' stores the value 2, and the variable 'z' stores the value 9. Note in the third line how we can use variables in expressions in a similar way to algebra.
+
+All Javascript variables must have unique names, which are called **identifiers**. In the variables above, the identifiers are 'x', 'y', and 'z' respectively, but identifiers can be much more descriptive. The general rules for making an identifier are as follows:
+
+- Names can contain letters, digits, underscores, and dollar signs
+- Names **must** begin with a letter
+- Names can begin with _ or $
+- Names are case sensitive. If you have var y and var Y, they are treated as two distinct variables
+- Reserved words, such as JS keywords, cannot be used as names.
+
+A different case arises when we declare a variable but don't assign it a value. For example:
+
+> var whatsthis;
+
+In this case, 'whatsthis' has the value *undefined*.
+
+## The Assignment Operator:
+
+One important distinction to make in Javascript is the assignment operator (=) vs. the equals operator (==).
+
+If we want to assign a value to variable, we need to use the assignment operator = (only one equals sign). For instance:
+
+> x = x + 1;
+
+This statement first calculates the value of x + 1, then assigns that value to x. In other words, this statement increments the value of x by one each time.
+
+On the other hand, if we wanted to check if a variable equaled some value, then we would need to use the equals operator (two equals signs). Note that this is a **VERY** common source of error, so if a problem arises and you get stuck, be sure to check how many equals signs you used!
