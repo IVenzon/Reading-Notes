@@ -40,18 +40,18 @@ The 'color' property in CSS sets the text color of your element. Note that this 
 
 There are many ways to define what color you want your text to be. Here are some examples.
 
-1. The HTML color name (if it has one):
+- The HTML color name (if it has one):
 
 > h1 {color: Tomato;}
 
-2. The color's HEX value:
+- The color's HEX value:
 
 > h1 {color: #ff6347;}
 
-3. The color's RGB value:
+- The color's RGB value:
 
 > h1 {color: rgb(255, 99, 71);}
 
-4. The color's HSL value:
+- The color's HSL value:
 
 > h1 {color: hsl(9, 100%, 64%);}
