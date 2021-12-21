@@ -15,3 +15,4 @@ ___
 4. [Wireframing and HTML](code-102/html)
 5. [CSS](code-102/css)
 6. [Javascript](code-102/javascript)
+7. [Programming with Javascript](code-102/programming-with-js)
