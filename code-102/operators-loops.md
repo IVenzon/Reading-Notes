@@ -59,7 +59,7 @@ This will only run if x is true and y is true. If either are false or both are f
 
 The Logical **OR** (\|\|) is used if we only need one expression of a conditional to be true. For example:
 
-> if (x || y)
+> if (x \|\| y)
 
 This will run if x is true, y is true, or both are true. If both are false, then it will not run.
 
