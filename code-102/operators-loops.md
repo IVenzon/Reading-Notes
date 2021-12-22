@@ -70,3 +70,31 @@ The Logical **NOT** (!) is used if we want to check that something is not true. 
 This will only run if x is false. If x is true, then it will not run.
 
 For a complete list of all the types of operators, click [here!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
+## Loops and Iteration:
+
+In Javascript, loops give us an easy way to do something repeatedly. There are several ways to start a loop, each with their own distinct start/end points. Based on your situation, some loops may be more favorable than others.
+
+### for loops:
+
+A **for loop** repeats until a specified condition returns false. For example:
+
+> for (let i = 0; i < 10; i++)
+
+This loop will iterate a total of 10 times. It will loop when i = 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. When i is incremented to 10, then the second condition is false, and the loop will break.
+
+### while loops:
+
+A **while loop** will repeat as long as the specified condition returns true. For example:
+
+> while (x < 10) {x++;}
+
+This loop will also iterate a total of 10 times. It will loop when x = 0, 1, 2, 3, 4, 5, 6, 7, 8, and 9. When x is incremented to 10, the condition is false, and the loop will break.
+
+### The break/continue statement:
+
+If you want to terminate a loop, use the **break** statement. Using it without a label will terminate the loop immediately, while if it used with a label, it will terminate the specified labeled statement.
+
+If you want to restart a while/for loop, use the **continue** statement. Using it without a label will terminate the current iteration of the loop and continue the loop at the next iteration. Note that this does not result in the termination of the loop, just that specific iteration. If it is used with a label, it applies to the looping statement identified with that label.
+
+For a complete list of all the types of loops, click [here!](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
