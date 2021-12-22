@@ -57,7 +57,7 @@ The Logical **AND** (&&) is used if we need both expressions of a conditional to
 
 This will only run if x is true and y is true. If either are false or both are false, then it will not run.
 
-The Logical **OR** (||) is used if we only need one expression of a conditional to be true. For example:
+The Logical **OR** (\|\|) is used if we only need one expression of a conditional to be true. For example:
 
 > if (x || y)
 
