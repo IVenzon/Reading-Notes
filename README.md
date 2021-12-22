@@ -16,3 +16,4 @@ ___
 5. [CSS](code-102/css)
 6. [Javascript](code-102/javascript)
 7. [Programming with Javascript](code-102/programming-with-js)
+8. [Operators and Loops](code=102/operators-loops)
